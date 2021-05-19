@@ -1,6 +1,6 @@
 html {
   color: #d5d5d5;
-  font: 18px "Electrolize";
+  font: 50px "Electrolize";
   height: 100%;
 }
 
@@ -44,7 +44,7 @@ div {
 
 input {
   background-color: unset;
-  font: 16px "Electrolize";
+  font: 48px "Electrolize";
   color: #d5d5d5;
   height: 100%;
   width: 100%;
@@ -59,4 +59,14 @@ input {
 
 *:focus {
   outline: none;
+}
+
+@media only screen and (min-width: 600px) {
+  html {
+    font: 18px "Electrolize";
+  }
+
+  input {
+    font: 16px "Electrolize";
+  }
 }
