@@ -1,0 +1,267 @@
+[
+  {
+    "group": "Microsoft",
+    "sites": [
+      {
+        "name": "Office",
+        "url": "https://www.office.com/apps?auth=2/"
+      },
+      {
+        "name": "Azure",
+        "url": "https://portal.azure.com/"
+      },
+      {
+        "name": "Dynamics",
+        "url": "https://home.dynamics.com/"
+      },
+      {
+        "name": "PowerApps",
+        "url": "https://make.powerapps.com/"
+      },
+      {
+        "name": "Power Automate",
+        "url": "https://us.flow.microsoft.com/"
+      },
+      {
+        "name": "PowerBI",
+        "url": "https://app.powerbi.com/home/"
+      }
+    ]
+  },
+  {
+    "group": "Admin Centers",
+    "sites": [
+      {
+        "name": "Power Platform",
+        "url": "https://admin.powerplatform.microsoft.com/environments/"
+      },
+      {
+        "name": "Microsoft 365",
+        "url": "https://admin.microsoft.com/"
+      },
+      {
+        "name": "Power Automate",
+        "url": "https://admin.flow.microsoft.com/enviornments/"
+      },
+      {
+        "name": "PowerBI",
+        "url": "https://app.powerbi.com/admin-portal/"
+      }
+    ]
+  },
+  {
+    "group": "Work",
+    "sites": [
+      {
+        "name": "Sharepoint",
+        "url": "https://eimagine.sharepoint.com/sites/EmployeePortal/"
+      },
+      {
+        "name": "Chava",
+        "url": "https://eimagine.web.getchava.com/"
+      },
+      {
+        "name": "Teams",
+        "url": "https://teams.microsoft.com/"
+      },
+      {
+        "name": "Outlook",
+        "url": "https://outlook.office.com/mail/inbox/"
+      },
+      {
+        "name": "Certifications",
+        "url": "https://www.microsoft.com/en-us/learning/dashboard.aspx/"
+      },
+      {
+        "name": "Stream",
+        "url": "https://web.microsoftstream.com/"
+      }
+    ]
+  },
+  {
+    "group": "Projects",
+    "sites": [
+      {
+        "name": "DevOps",
+        "url": "https://dev.azure.com/eimagine/"
+      },
+      {
+        "name": "Trello",
+        "url": "https://trello.com/"
+      },
+      {
+        "name": "FSSA Jira",
+        "url": "https://jira.fssa.in.gov/secure/Dashboard.jspa?selectPageId=21715/"
+      },
+      {
+        "name": "Omni Prod",
+        "url": "https://omnisource.omnisourcemarketing.com/"
+      },
+      {
+        "name": "Omni Dev",
+        "url": "https://crmtest15.omnisourcemarketing.com/"
+      },
+      {
+        "name": "Impaqt",
+        "url": "https://impaqt.carbidellc.com/"
+      }
+    ]
+  },
+  {
+    "group": "IOT",
+    "sites": [
+      {
+        "name": "PeopleSoft",
+        "url": "https://elm.gmis.in.gov/psp/lmprd/EMPLOYEE/ELM/h/?tab=LM_LEARNING_DASHBOARD/"
+      },
+      {
+        "name": "Password Management",
+        "url": "https://www.in.gov/password/"
+      },
+      {
+        "name": "Account Renewal",
+        "url": "https://myweb.in.gov/IOT/AccountRenew/login.aspx?ReturnUrl=/IOT/AccountRenew/Default.aspx/"
+      },
+      {
+        "name": "ICHAMP",
+        "url": "https://ichamp.doe.in.gov/"
+      },
+      {
+        "name": "BDDS Portal QA",
+        "url": "https://bddsportalqa.fssa.in.gov/"
+      },
+      {
+        "name": "BDDS Portal Dev",
+        "url": "https://bddsportaldev.fssa.in.gov/"
+      },
+      {
+        "name": "BDDS Portal DM",
+        "url": "https://bddsportaldm.fssa.in.gov/"
+      }
+    ]
+  },
+  {
+    "group": "Finance",
+    "sites": [
+      {
+        "name": "Mint",
+        "url": "https://mint.intuit.com/"
+      },
+      {
+        "name": "IMCU",
+        "url": "https://online.imcu.com/imcuonlinebanking/uux.aspx#/"
+      },
+      {
+        "name": "Capital One",
+        "url": "https://myaccounts.capitalone.com/"
+      },
+      {
+        "name": "American Express",
+        "url": "https://global.americanexpress.com/dashboard/"
+      },
+      {
+        "name": "Citizens",
+        "url": "https://www.citizensenergygroup.com/My-Account/Account-Detail/"
+      },
+      {
+        "name": "AES Indiana",
+        "url": "https://myaccount.aesindiana.com/"
+      },
+      {
+        "name": "Xfinity",
+        "url": "https://customer.xfinity.com/"
+      },
+      {
+        "name": "Principal",
+        "url": "https://secure05.principal.com/participant/member/"
+      }
+    ]
+  },
+  {
+    "group": "Social",
+    "sites": [
+      {
+        "name": "Reddit",
+        "url": "https://old.reddit.com/"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://instagram.com/"
+      },
+      {
+        "name": "urledIn",
+        "url": "https://urledin.com/"
+      },
+      {
+        "name": "Pinterest",
+        "url": "https://pinterest.com/"
+      },
+      {
+        "name": "Pocket",
+        "url": "https://getpocket.com/my-list/"
+      },
+      {
+        "name": "Facebook",
+        "url": "https://facebook.com/messages/"
+      }
+    ]
+  },
+  {
+    "group": "Media",
+    "sites": [
+      {
+        "name": "YouTube",
+        "url": "https://youtube.com/"
+      },
+      {
+        "name": "Netflix",
+        "url": "https://netflix.com/"
+      },
+      {
+        "name": "Hulu",
+        "url": "https://hulu.com/"
+      },
+      {
+        "name": "Prime Video",
+        "url": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjI2c_2mdbwAhWWQc0KHbRxAV0QjBAwBHoECAoQAQ&url=https%3A%2F%2Fwww.amazon.com%2FAmazon-Video%2Fb%3Fie%3DUTF8%26node%3D2858778011&usg=AOvVaw3AOQlGANBQG6fj8J6bjIGv/"
+      },
+      {
+        "name": "Disney+",
+        "url": "https://disneyplus.com/"
+      },
+      {
+        "name": "Animeshow",
+        "url": "https://animeshow.tv/"
+      },
+      {
+        "name": "Spotify",
+        "url": "https://spotify.com/"
+      }
+    ]
+  },
+  {
+    "group": "Gaming",
+    "sites": [
+      {
+        "name": "Steam",
+        "url": "https://store.steampowered.com/"
+      },
+      {
+        "name": "Humble Bundle",
+        "url": "https://humblebundle.com/"
+      },
+      {
+        "name": "CDKeys",
+        "url": "https://cdkeys.com/pc/games/"
+      },
+      {
+        "name": "Battle.net",
+        "url": "https://battle.net/"
+      },
+      {
+        "name": "Epic Games",
+        "url": "https://epicgames.com/"
+      }
+    ]
+  }
+]

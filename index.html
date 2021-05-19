@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Startpage</title>
+    <meta name="description" content="startpage" />
+    <meta name="author" content="jpendleton" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=Electrolize"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <script
+      src="http://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"
+      defer
+    ></script>
+    <script src="script.js" defer></script>
+  </head>
+  <body>
+    <div class="container h-100">
+      <p class="center">
+        <img src="image.png" width="150" height="150" />
+      </p>
+      <form id="form" role="search" autocomplete="off">
+        <input
+          type="search"
+          id="query"
+          name="q"
+          placeholder="Search DuckDuckGo..."
+          onfocus="this.placeholder = ''"
+          onblur="this.placeholder = 'enter your text'"
+        />
+      </form>
+      <div id="sites"></div>
+    </div>
+  </body>
+</html>
