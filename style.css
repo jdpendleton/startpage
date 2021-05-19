@@ -25,6 +25,8 @@ ul,
 nav {
   list-style-type: none;
   margin: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
   display: inline-block;
   vertical-align: top;
   line-height: normal;
@@ -33,7 +35,7 @@ nav {
 
 div {
   text-align: center;
-  padding-right: 15px;
+  /* padding-right: 15px; */
 }
 
 .center {
@@ -71,10 +73,6 @@ input {
     padding: 150px;
     padding-top: 50px;
     padding-bottom: 0px;
-  }
-
-  div {
-    padding-right: 75px;
   }
 
   .center {
