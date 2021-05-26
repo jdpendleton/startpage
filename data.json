@@ -189,6 +189,10 @@
         "url": "https://old.reddit.com/"
       },
       {
+        "name": "HackerNews",
+        "url": "https://news.ycombinator.com/best"
+      },
+      {
         "name": "Instagram",
         "url": "https://instagram.com/"
       },
@@ -207,6 +211,10 @@
       {
         "name": "Facebook",
         "url": "https://facebook.com/messages/"
+      },
+      {
+        "name": "Gmail",
+        "url": "https://mail.google.com/"
       }
     ]
   },

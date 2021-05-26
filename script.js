@@ -1,39 +1,31 @@
 console.log('loaded');
 
-const f = document.getElementById("form");
-const q = document.getElementById("query");
-const search = "https://duckduckgo.com/?t=ffab&q=";
-
-function submitted(event) {
+$('#form').submit(event => {
     event.preventDefault();
-    const url = search + q.value + "&ia=web";
-    window.open(url, "_self");
-}
+    
+    const query = $('#query')[0].value;
+    window.open(`https://duckduckgo.com/?t=ffab&q=${query}`, '_self');
+});
 
-f.addEventListener("submit", submitted);
+$.get('data.json', data => {
 
-var req = new XMLHttpRequest();
-req.open("GET", 'data.json', false);
-req.send();
+    data.forEach(group => {
+        var nav = $('<nav>');
+        var list = $('<ul>');
+        var head = $('<h2>').text(group['group']);
 
-var data = req.status == 200 ? JSON.parse(req.responseText) : [];
+        list.append(head);
 
-data.forEach(group => {
-    var nav = $('<nav>');
-    var list = $('<ul>');
-    var head = $('<h2>').text(group['group']);
+        group.sites.forEach(site => {
+            var dat = $('<li>');
+            var a = $('<a>').text(site['name']).attr('href', site['url']);
 
-    list.append(head);
+            dat.append(a);
+            list.append(dat);
+        });
 
-    group.sites.forEach(site => {
-        var dat = $('<li>');
-        var a = $('<a>').text(site['name']).attr('href', site['url']);
+        nav.append(list);
 
-        dat.append(a);
-        list.append(dat);
+        $('#sites').append(nav);
     });
-
-    nav.append(list);
-
-    $('#sites').append(nav);
 });
