@@ -7,12 +7,20 @@
         "url": "https://www.office.com/apps?auth=2/"
       },
       {
+        "name": "Microsoft 365",
+        "url": "https://admin.microsoft.com/"
+      },
+      {
         "name": "Azure",
         "url": "https://portal.azure.com/"
       },
       {
         "name": "Dynamics",
         "url": "https://home.dynamics.com/"
+      },
+      {
+        "name": "Power Platform",
+        "url": "https://admin.powerplatform.microsoft.com/environments/"
       },
       {
         "name": "PowerApps",
@@ -25,27 +33,6 @@
       {
         "name": "PowerBI",
         "url": "https://app.powerbi.com/home/"
-      }
-    ]
-  },
-  {
-    "group": "Admin Centers",
-    "sites": [
-      {
-        "name": "Power Platform",
-        "url": "https://admin.powerplatform.microsoft.com/environments/"
-      },
-      {
-        "name": "Microsoft 365",
-        "url": "https://admin.microsoft.com/"
-      },
-      {
-        "name": "Power Automate",
-        "url": "https://admin.flow.microsoft.com/enviornments/"
-      },
-      {
-        "name": "PowerBI",
-        "url": "https://app.powerbi.com/admin-portal/"
       }
     ]
   },
@@ -127,8 +114,16 @@
         "url": "https://myweb.in.gov/IOT/AccountRenew/login.aspx?ReturnUrl=/IOT/AccountRenew/Default.aspx/"
       },
       {
-        "name": "ICHAMP",
+        "name": "ICHAMP Portal",
         "url": "https://ichamp.doe.in.gov/"
+      },
+      {
+        "name": "ICHAMP Dev",
+        "url": "https://doeichampdev.crm9.dynamics.com/"
+      },
+      {
+        "name": "ICHAMP Prod",
+        "url": "https://doeichamp.crm9.dynamics.com/"
       },
       {
         "name": "BDDS Portal QA",
