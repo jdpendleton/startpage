@@ -62,6 +62,10 @@
       {
         "name": "Stream",
         "url": "https://web.microsoftstream.com/"
+      },
+      {
+        "name": "Scribe",
+        "url": "https://integration.cloud.tibco.com/"
       }
     ]
   },
