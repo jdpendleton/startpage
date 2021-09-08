@@ -177,6 +177,14 @@
       {
         "name": "Principal",
         "url": "https://secure05.principal.com/participant/member/"
+      },
+      {
+        "name": "Crate&Barrel",
+        "url": "https://www.crateandbarrel.com/account/login"
+      },
+      {
+        "name": "Target",
+        "url": "https://www.target.com/gift-registry/my-registry?registryId=e23e8b5c-88ea-11eb-a95b-03784e2304f5&type=WEDDING&regMode=REGST"
       }
     ]
   },
@@ -241,12 +249,16 @@
         "url": "https://disneyplus.com/"
       },
       {
-        "name": "Animeshow",
+        "name": "Peacock",
+        "url": "https://www.peacocktv.com/watch/"
+      },
+      {
+        "name": "Show.tv",
         "url": "https://animeshow.tv/"
       },
       {
-        "name": "Spotify",
-        "url": "https://spotify.com/"
+        "name": "Nana",
+        "url": "https://animenana.com/"
       }
     ]
   },
