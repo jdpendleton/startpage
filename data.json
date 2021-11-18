@@ -259,6 +259,10 @@
       {
         "name": "Nana",
         "url": "https://animenana.com/"
+      },
+      {
+        "name": "MAL",
+        "url": "https://myanimelist.net/"
       }
     ]
   },
@@ -284,6 +288,14 @@
       {
         "name": "Epic Games",
         "url": "https://epicgames.com/"
+      },
+      {
+        "name": "PokéCommunity",
+        "url": "https://www.pokecommunity.com/"
+      },
+      {
+        "name": "Serebii",
+        "url": "https://www.serebii.net/pokedex-rs/"
       }
     ]
   }
