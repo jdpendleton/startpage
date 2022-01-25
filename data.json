@@ -126,12 +126,24 @@
         "url": "https://dev-cwc.crm.dynamics.com/"
       },
       {
+        "name": "CW Dev Settings",
+        "url": "https://dev-cwc.crm.dynamics.com/main.aspx?settingsonly=true"
+      },
+      {
         "name": "CW UAT",
         "url": "https://uat-cwc.crm.dynamics.com/"
       },
       {
+        "name": "CW UAT Settings",
+        "url": "https://uat-cwc.crm.dynamics.com/main.aspx?settingsonly=true"
+      },
+      {
         "name": "CW Prod",
         "url": "https://prod-cwc.crm.dynamics.com/"
+      },
+      {
+        "name": "CW Prod Settings",
+        "url": "https://prod-cwc.crm.dynamics.com/main.aspx?settingsonly=true"
       }
     ]
   },
@@ -141,6 +153,10 @@
       {
         "name": "PeopleSoft",
         "url": "https://elm.gmis.in.gov/psp/lmprd/EMPLOYEE/ELM/h/?tab=LM_LEARNING_DASHBOARD/"
+      },
+      {
+        "name": "SuccessFactors",
+        "url": "https://successfactors.in.gov/saml2/idp/sso?sp=https://www.successfactors.com/indianaoff"
       },
       {
         "name": "Password Management",
