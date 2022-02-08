@@ -3,6 +3,18 @@
     "group": "Microsoft",
     "sites": [
       {
+        "name": "Teams",
+        "url": "https://teams.microsoft.com/"
+      },
+      {
+        "name": "Outlook",
+        "url": "https://outlook.office.com/mail/inbox/"
+      },
+      {
+        "name": "Certifications",
+        "url": "https://www.microsoft.com/en-us/learning/dashboard.aspx/"
+      },
+      {
         "name": "Office",
         "url": "https://www.office.com/apps?auth=2/"
       },
@@ -29,6 +41,10 @@
       {
         "name": "PowerBI",
         "url": "https://app.powerbi.com/home/"
+      },
+      {
+        "name": "Stream",
+        "url": "https://web.microsoftstream.com/"
       }
     ]
   },
@@ -40,28 +56,16 @@
         "url": "https://eimagine.sharepoint.com/sites/EmployeePortal/"
       },
       {
-        "name": "Chava",
-        "url": "https://eimagine.web.getchava.com/"
+        "name": "PayCor",
+        "url": "https://hcm.paycor.com/Portal/#/"
       },
       {
-        "name": "Teams",
-        "url": "https://teams.microsoft.com/"
+        "name": "Harvest",
+        "url": "https://eimagine.harvestapp.com/time"
       },
       {
-        "name": "Outlook",
-        "url": "https://outlook.office.com/mail/inbox/"
-      },
-      {
-        "name": "Certifications",
-        "url": "https://www.microsoft.com/en-us/learning/dashboard.aspx/"
-      },
-      {
-        "name": "Stream",
-        "url": "https://web.microsoftstream.com/"
-      },
-      {
-        "name": "Scribe",
-        "url": "https://integration.cloud.tibco.com/"
+        "name": "Forecast",
+        "url": "https://forecastapp.com/775815/schedule/team"
       },
       {
         "name": "Lessonly",
@@ -70,6 +74,10 @@
       {
         "name": "Ninety.io",
         "url": "https://app.ninety.io/"
+      },
+      {
+        "name": "Chava",
+        "url": "https://eimagine.web.getchava.com/"
       }
     ]
   },
@@ -87,6 +95,10 @@
       {
         "name": "GitHub",
         "url": "https://github.com/"
+      },
+      {
+        "name": "Scribe",
+        "url": "https://integration.cloud.tibco.com/"
       },
       {
         "name": "FSSA Jira",
@@ -177,18 +189,6 @@
       {
         "name": "ICHAMP Prod",
         "url": "https://doeichamp.crm9.dynamics.com/"
-      },
-      {
-        "name": "BDDS Portal QA",
-        "url": "https://bddsportalqa.fssa.in.gov/"
-      },
-      {
-        "name": "BDDS Portal Dev",
-        "url": "https://bddsportaldev.fssa.in.gov/"
-      },
-      {
-        "name": "BDDS Portal DM",
-        "url": "https://bddsportaldm.fssa.in.gov/"
       }
     ]
   },
@@ -208,12 +208,12 @@
         "url": "https://myaccounts.capitalone.com/"
       },
       {
-        "name": "ARC Home Loan",
-        "url": "https://www.myloancare.com/app/"
-      },
-      {
         "name": "American Express",
         "url": "https://global.americanexpress.com/dashboard/"
+      },
+      {
+        "name": "ARC Home Loan",
+        "url": "https://www.myloancare.com/app/"
       },
       {
         "name": "Citizens",
@@ -238,6 +238,10 @@
       {
         "name": "Guardian",
         "url": "https://www.guardiananytime.com/app3/wps/myportal/"
+      },
+      {
+        "name": "Forum",
+        "url": "https://onlineloanapp.forumcu.com/VirtualCapture/default/Products"
       }
     ]
   },
