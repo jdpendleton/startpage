@@ -163,10 +163,6 @@
     "group": "IOT",
     "sites": [
       {
-        "name": "PeopleSoft",
-        "url": "https://elm.gmis.in.gov/psp/lmprd/EMPLOYEE/ELM/h/?tab=LM_LEARNING_DASHBOARD/"
-      },
-      {
         "name": "SuccessFactors",
         "url": "https://successfactors.in.gov/saml2/idp/sso?sp=https://www.successfactors.com/indianaoff"
       },
@@ -177,6 +173,10 @@
       {
         "name": "Account Renewal",
         "url": "https://myweb.in.gov/IOT/AccountRenew/login.aspx?ReturnUrl=/IOT/AccountRenew/Default.aspx/"
+      },
+      {
+        "name": "Octapus",
+        "url": "https://idoe.octopus.app/"
       },
       {
         "name": "ICHAMP Portal",
