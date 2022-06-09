@@ -179,6 +179,10 @@
         "url": "https://idoe.octopus.app/"
       },
       {
+        "name": "PowerApps",
+        "url": "https://make.gov.powerapps.us/"
+      },
+      {
         "name": "ICHAMP Portal",
         "url": "https://ichamp.doe.in.gov/"
       },
@@ -330,6 +334,10 @@
   {
     "group": "Gaming",
     "sites": [
+      {
+        "name": "D&D Beyond",
+        "url": "https://www.dndbeyond.com/characters"
+      },
       {
         "name": "Steam",
         "url": "https://store.steampowered.com/"
